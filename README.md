@@ -1,0 +1,2 @@
+# ogshared
+Shared ogscraper modules 
